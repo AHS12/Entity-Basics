@@ -1,0 +1,14 @@
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\bin\Debug\CodeFirstEF.exe.config
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\bin\Debug\CodeFirstEF.exe
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\bin\Debug\CodeFirstEF.pdb
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\bin\Debug\EntityFramework.dll
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\bin\Debug\EntityFramework.xml
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\obj\Debug\CodeFirstEF.csprojAssemblyReference.cache
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\obj\Debug\CodeFirstEF.csproj.CoreCompileInputs.cache
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\obj\Debug\CodeFirstEF.csproj.CopyComplete
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\obj\Debug\CodeFirstEF.exe
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\obj\Debug\CodeFirstEF.pdb
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\obj\Debug\CodeFirstEF.Migrations.InitialModel.resources
+E:\Projects\DOTNET\CodeFirstEF\CodeFirstEF\obj\Debug\CodeFirstEF.csproj.GenerateResource.cache

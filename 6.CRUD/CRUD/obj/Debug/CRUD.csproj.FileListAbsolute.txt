@@ -1,0 +1,15 @@
+E:\Projects\DOTNET\CRUD\CRUD\bin\Debug\CRUD.exe.config
+E:\Projects\DOTNET\CRUD\CRUD\bin\Debug\CRUD.exe
+E:\Projects\DOTNET\CRUD\CRUD\bin\Debug\CRUD.pdb
+E:\Projects\DOTNET\CRUD\CRUD\bin\Debug\EntityFramework.dll
+E:\Projects\DOTNET\CRUD\CRUD\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\DOTNET\CRUD\CRUD\bin\Debug\EntityFramework.xml
+E:\Projects\DOTNET\CRUD\CRUD\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\DOTNET\CRUD\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+E:\Projects\DOTNET\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+E:\Projects\DOTNET\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+E:\Projects\DOTNET\CRUD\CRUD\obj\Debug\CRUD.exe
+E:\Projects\DOTNET\CRUD\CRUD\obj\Debug\CRUD.pdb
+E:\Projects\DOTNET\CRUD\CRUD\obj\Debug\CRUD.Migrations.InitialModel.resources
+E:\Projects\DOTNET\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+E:\Projects\DOTNET\CRUD\CRUD\obj\Debug\CRUD.Migrations.InitialModel1.resources

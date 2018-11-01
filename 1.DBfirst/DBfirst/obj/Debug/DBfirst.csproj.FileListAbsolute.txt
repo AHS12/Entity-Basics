@@ -1,0 +1,12 @@
+E:\Projects\DOTNET\DBfirst\DBfirst\bin\Debug\DBfirst.exe.config
+E:\Projects\DOTNET\DBfirst\DBfirst\bin\Debug\DBfirst.exe
+E:\Projects\DOTNET\DBfirst\DBfirst\bin\Debug\DBfirst.pdb
+E:\Projects\DOTNET\DBfirst\DBfirst\bin\Debug\EntityFramework.dll
+E:\Projects\DOTNET\DBfirst\DBfirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\DOTNET\DBfirst\DBfirst\bin\Debug\EntityFramework.xml
+E:\Projects\DOTNET\DBfirst\DBfirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\DOTNET\DBfirst\DBfirst\obj\Debug\DBfirst.csprojAssemblyReference.cache
+E:\Projects\DOTNET\DBfirst\DBfirst\obj\Debug\DBfirst.csproj.CoreCompileInputs.cache
+E:\Projects\DOTNET\DBfirst\DBfirst\obj\Debug\DBfirst.csproj.CopyComplete
+E:\Projects\DOTNET\DBfirst\DBfirst\obj\Debug\DBfirst.exe
+E:\Projects\DOTNET\DBfirst\DBfirst\obj\Debug\DBfirst.pdb

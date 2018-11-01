@@ -1,0 +1,14 @@
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\bin\Debug\FluentApiCodeFirst.exe.config
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\bin\Debug\FluentApiCodeFirst.exe
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\bin\Debug\FluentApiCodeFirst.pdb
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\bin\Debug\EntityFramework.dll
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\bin\Debug\EntityFramework.xml
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\obj\Debug\FluentApiCodeFirst.csprojAssemblyReference.cache
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\obj\Debug\FluentApiCodeFirst.csproj.CoreCompileInputs.cache
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\obj\Debug\FluentApiCodeFirst.csproj.CopyComplete
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\obj\Debug\FluentApiCodeFirst.exe
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\obj\Debug\FluentApiCodeFirst.pdb
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\obj\Debug\FluentApiCodeFirst.Migrations.InitialModel.resources
+E:\Projects\DOTNET\FluentApiCodeFirst\FluentApiCodeFirst\obj\Debug\FluentApiCodeFirst.csproj.GenerateResource.cache
